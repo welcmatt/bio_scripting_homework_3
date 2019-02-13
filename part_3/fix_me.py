@@ -15,8 +15,11 @@ print("You entered", b, "which is a", type(b))
 #       Let's assume we want a and b to be integers at this point
 #######################################################################
 
-print("What is", a, "now?", type(a))
-print("What is", b, "now?", type(a))
+A = int(a)
+B = int(b)
+
+print("What is", a, "now?", type(A))
+print("What is", b, "now?", type(B))
 
 
 total = a + b
@@ -59,12 +62,12 @@ print("Now \"b\" equals", b, "and is a", type(b))
 
 
 total = a + b
- print("a + b =", total, ", which is a", type(total))
+print("a + b =", total, ", which is a", type(total))
 
 difference = a - b
 print("a - b =", difference, ", which is a", type(difference))
 
-    product = a * b
+product = a * b
 print("a * b =", product, ", which is a", type(product))
 
 quotient = a / b
@@ -74,7 +77,7 @@ floor_quotient = a // b
 print("a // b =", floor_quotient, ", which is a", type(floor_quotient))
 
 remainder = a % b
-print("a % b =," remainder ", which is a," type(remainder))
+print("a % b =", remainder, " which is a ", type(remainder))
 
 power = a ** b
 print("a ** b =",
