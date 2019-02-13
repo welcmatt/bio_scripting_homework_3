@@ -1,0 +1,7 @@
+Current time: 15:38:57 CST
+
+Current date: Wed Feb 13
+
+Current uptime:  15:38:57 up 7 days, 57 min, 24 users,  load average: 0.03, 0.10, 0.35
+
+Current users: asndcy asnjnr aubcls64 aubcls69 aubcls70 aubcls72 aubcls78 aubmlm aubrxk oper uablxw uahkxc uahpxb uahpxb uahpxb ualaxk ualazp ualdys ualixd ualmab ualzrl usacls36 usacls37 usajxc
