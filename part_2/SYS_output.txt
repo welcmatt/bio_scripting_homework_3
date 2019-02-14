@@ -5,3 +5,17 @@ Current date: Wed Feb 13
 Current uptime:  15:38:57 up 7 days, 57 min, 24 users,  load average: 0.03, 0.10, 0.35
 
 Current users: asndcy asnjnr aubcls64 aubcls69 aubcls70 aubcls72 aubcls78 aubmlm aubrxk oper uablxw uahkxc uahpxb uahpxb uahpxb ualaxk ualazp ualdys ualixd ualmab ualzrl usacls36 usacls37 usajxc
+Current time: 16:40:40 CST
+
+Current date: Wed Feb 13
+
+Current uptime:  16:40:40 up 7 days,  1:58, 31 users,  load average: 0.07, 0.15, 0.21
+
+Current users: asndcy asnjnr aubcls59 aubcls64 aubcls66 aubcls68 aubcls69 aubcls72 aubcls72 aubcls73 aubcls78 aubmlm aubrxk aumcls03 oper uablxw uahkxc uahmsb uahpxb uahpxb uahpxb ualaxk ualazp ualdys ualixd ualmab ualprj ualzrl usacls36 usacls37 usajxc
+Current time: 20:43:37 CST
+
+Current date: Wed Feb 13
+
+Current uptime:  20:43:37 up 7 days, 21:51, 15 users,  load average: 14.02, 14.16, 14.27
+
+Current users: asninstall aubbas aubcls62 aubcls72 aubnxk aubrrb aumcls08 tusoxk ualaxk ualmab ualmmm ualprj usaaxw usabdr usacls35
